@@ -2,7 +2,7 @@
 
 ### Arrays
 
-Two Sum  
+Two Sum ✅
 Best Time to Buy and Sell Stock
 
 ### Linked List
