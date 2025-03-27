@@ -2,9 +2,7 @@
 
 ### Arrays
 
-Two Sum ✅
-Best Time to Buy and Sell Stock
+Two Sum ✅ Using a HashMap
+Two Sum II✅ Using Pointers
 
 ### Linked List
-
-Reverse Linked List
