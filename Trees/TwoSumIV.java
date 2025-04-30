@@ -41,7 +41,7 @@ class Solution {
     }
     //Inorder traversal method
     public void inorder(TreeNode root, List<Integer> nums){
-        //base case if the root num doesnt exist return nothing
+        //base case if the current node is null, stop recursion (no more nodes to process)
         if(root == null) return;
         inorder(root.left, nums);
         nums.add(root.val);
