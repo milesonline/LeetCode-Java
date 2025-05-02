@@ -9,8 +9,7 @@ Two Sum II✅ Using Pointers
 
 ### Trees
 
-Two Sum IV ✅ BST, sorted using inorder traversal
+Two Sum IV ✅
 Validate Binary Search Tree ✅
 K-th Smallest Element in a BST✅
-
-### Linked List
+Lowest Common Ancestor ✅
