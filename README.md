@@ -13,3 +13,4 @@ Two Sum IV ✅
 Validate Binary Search Tree ✅
 K-th Smallest Element in a BST✅
 Lowest Common Ancestor ✅
+Construct a Binary Tree form Preorder and Inorder Traversal✅
