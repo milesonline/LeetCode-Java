@@ -15,3 +15,4 @@ K-th Smallest Element in a BST✅
 Lowest Common Ancestor ✅
 Construct a Binary Tree from Preorder and Inorder Traversal✅
 Construct a Binary Tree from Postorder and Inorder Traversal✅
+Serialize and Deserialize Binary Tree✅
