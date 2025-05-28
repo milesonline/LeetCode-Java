@@ -19,3 +19,4 @@ Serialize and Deserialize Binary Tree✅
 Balanced Binary Tree ✅
 Invert Binary Tree ✅
 Diameter of a Binary Tree ✅
+Path Sum ✅
