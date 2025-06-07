@@ -25,3 +25,4 @@ Path Sum II✅
 ### Graphs
 
 Number of Islands ✅
+Max Area of Island ✅
